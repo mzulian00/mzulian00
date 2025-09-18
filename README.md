@@ -1,8 +1,8 @@
 
 ## Hi! I'm Matteo, welcolme to my GitHub 😊 
 
-* M.S. in Automation and Intelligent CyberPhysical Systems at [Politecnico di Torino](https://www.polito.it/) with grade **cum laude**. Here's the [study plan](#master-degree-transcript).
-* B.S. in Computer Science and Engineering at [Politecnico di Torino](https://www.polito.it/) with grade **110/110**. Here's the [study plan](#bachelor-degree-transcript).
+* M.S. in Automation and Intelligent CyberPhysical Systems at [Politecnico di Torino](https://www.polito.it/) with grade **cum laude**. <!-- Here's the [study plan](#master-degree-transcript). -->
+* B.S. in Computer Science and Engineering at [Politecnico di Torino](https://www.polito.it/) with grade **110/110**. <!-- Here's the [study plan](#bachelor-degree-transcript). -->
 * I can speak fluently Italian and English, currently learning German and Spanish.
 
 Here is a brief summary of what you can find in my repositories:
@@ -24,7 +24,7 @@ Here is a brief summary of what you can find in my repositories:
 - [Network Dynamics](https://github.com/mzulian00/homeworks-Networks-Dynamics), a series of three homeworks completed during the
   course and focused on modeling agent systems dynamics applying Graph Teory with the help of NetworkX Python library;
 - System and Device Programming MSc project [Spiking Neural Networks](https://github.com/mzulian00/project-Spiking-Neural-Networks), <!-- ADD DESCRIPTION -->
-
+<!--
 ## Master Degree Transcript
 | Conference date | Exam                                           | Credits | Final grade  |
 |-----------------|-----------------------------------------------|---------|--------------|
