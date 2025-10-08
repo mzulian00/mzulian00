@@ -11,7 +11,7 @@
 ![Python](https://img.shields.io/badge/Language-Python-blue)
 ![Python](https://img.shields.io/badge/Framework-ROS-darkblue)
 ![Python](https://img.shields.io/badge/Simulator-Gazebo-darkgreen)
-    - [Analysis of Sim-to-Real strategies with Domain Randomization techniques](https://github.com/mzulian00/homeworks-Robot-Learning/tree/main/project) - group project : analisis of sim-to-real transfer in robotics by addressing the reality gap using Domain Randomization. Comparison of Uniform Domain Randomization (UDR), which improves robustness via fixed randomization ranges, with Bayesian Domain Randomization (BayRn), which adaptively optimizes distributions using Bayesian Optimization for more precise but computationally costly results. 
+    - [Analysis of Sim-to-Real strategies with Domain Randomization techniques](https://github.com/mzulian00/homeworks-Robot-Learning/tree/main/project) - group project : analysis of sim-to-real transfer in robotics by addressing the reality gap using Domain Randomization. Comparison of Uniform Domain Randomization (UDR), which improves robustness via fixed randomization ranges, with Bayesian Domain Randomization (BayRn), which adaptively optimizes distributions using Bayesian Optimization for more precise but computationally costly results. 
     - [Ekf and ROS](https://github.com/mzulian00/homeworks-Robot-Learning/tree/main/exercise1-EKF-and-ROS) : implementation of an Extended Kalman Filter applied to a single and double pendulum on ROS.
 
     - [Rl-fundamentals](https://github.com/mzulian00/homeworks-Robot-Learning/exercise2-rl-fundamentals) : use of Gym Environment used to control the cartpole 
